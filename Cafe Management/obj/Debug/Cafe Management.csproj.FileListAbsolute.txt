@@ -1,0 +1,13 @@
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\bin\Debug\Cafe Management.exe.config
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\bin\Debug\Cafe Management.exe
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\bin\Debug\Cafe Management.pdb
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe Management.csproj.AssemblyReference.cache
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe Management.csproj.SuggestedBindingRedirects.cache
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe_Management.frm_Login.resources
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe_Management.Properties.Resources.resources
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe Management.csproj.GenerateResource.cache
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe Management.csproj.CoreCompileInputs.cache
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe Management.exe
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe Management.pdb
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe_Management.frm_Table_mgmt.resources
+D:\Dev\VStudio\Workspace\CF-Management\Cafe Management\obj\Debug\Cafe_Management.frm_AccountDetail.resources
